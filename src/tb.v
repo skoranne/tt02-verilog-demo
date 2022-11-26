@@ -4,6 +4,7 @@
 /*
 this testbench just instantiates the module and makes some convenient wires
 that can be driven / tested by the cocotb test.py
+See if actions work.
 */
 
 module tb (
